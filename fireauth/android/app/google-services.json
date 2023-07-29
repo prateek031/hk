@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836700825640",
+    "firebase_url": "https://fireauth-1e084-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fireauth-1e084",
+    "storage_bucket": "fireauth-1e084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836700825640:android:edd87541e24412e8db6d1d",
+        "android_client_info": {
+          "package_name": "com.example.fireauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836700825640-o58sjabssrgujaneqku2cedodl7vkc4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9sQo9Pml7uvHSYPhnMS_5x3q_DRRaHlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836700825640-o58sjabssrgujaneqku2cedodl7vkc4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
